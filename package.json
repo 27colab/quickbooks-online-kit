@@ -12,6 +12,10 @@
     "typescript"
   ],
   "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/27colab/quickbooks-online-kit.git" },
+  "homepage": "https://docs.27colab.com",
+  "bugs": { "url": "https://github.com/27colab/quickbooks-online-kit/issues" },
+  "publishConfig": { "access": "public" },
   "author": "Jesus Vasquez (27 Colab LLC)",
   "type": "module",
   "sideEffects": false,
